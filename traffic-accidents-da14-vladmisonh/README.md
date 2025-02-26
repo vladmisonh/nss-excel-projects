@@ -7,10 +7,15 @@ The analysis covers various aspects, including the total number of accidents, tr
 
 ## Dataset  
 The dataset consists of multiple sheets:  
-- **Accidents** – Raw accident data  
+- **Question** – Question + Answer keys
 - **Analysis** – Results of calculations and insights  
-- **Zero Car Crashes** – Filtered cases with zero vehicles involved  
-- **Collision Types** – Lookup table for collision type codes  
+- **Accidents** – Raw accident data
+- **Zero Car Crashes** – Filtered cases with zero vehicles involved   
+- **Collision Types** – Lookup table for collision type codes
+- **Weather Types** – Lookup table for weather type codes
+- **Illumination Types** – Lookup table for illumination type codes
+- **Harmful Types** – Lookup table for harmful type codes
+
 
 ---
 
