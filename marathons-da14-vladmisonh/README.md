@@ -62,4 +62,10 @@ Each of these formulas is structured to work dynamically, meaning they can be sh
 
 ### Findings Presentation  
 A brief presentation was created to summarize the key findings of this analysis. 
-
+![Slide 2](images/slide_2.png)
+![Slide 3](images/slide_3.png)
+![Slide 4](images/slide_4.png)
+![Slide 5](images/slide_5.png)
+![Slide 6](images/slide_6.png)
+![Slide 7](images/slide_7.png)
+![Slide 8](images/slide_8.png)
